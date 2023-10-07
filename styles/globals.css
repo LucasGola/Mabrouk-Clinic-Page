@@ -1,0 +1,16 @@
+:root {
+  --dark-golden: #A26F3C;
+  --light-golden: #FFD867;
+  --smooth-white: #FFFEF6;
+  --white: #FFFFFF;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
